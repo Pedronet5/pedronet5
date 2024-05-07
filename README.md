@@ -5,11 +5,11 @@ I'm a Senior Consulting Engineer at Capgemini Engineering, currently working wit
 <div style="display: flex; background-color: #0e1116; padding: 10px;">
     <div style="flex: 1; margin-right: 10px; color: white;">
         <!-- Adjust styles for Pedro's GitHub Stats -->
-        <img src="https://github-readme-stats.vercel.app/api?username=pedronet5" alt="Pedro's GitHub Stats" style="background-color: #0e1116; width: 100%;">
+        <img src="https://github-readme-stats.vercel.app/api?username=pedronet5" alt="Estadísticas de GitHub de Pedro" style="background-color: #0e1116; width: 100%;">
     </div>
     <div style="flex: 1; color: white;">
         <!-- Adjust styles for Top Languages -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedronet5" alt="Top Languages" style="background-color: #0e1116; width: 100%;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedronet5" alt="Lenguajes Más Usados" style="background-color: #0e1116; width: 100%;">
     </div>
 </div>
 
