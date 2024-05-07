@@ -2,11 +2,10 @@
 
 I'm a Senior Consulting Engineer at Capgemini Engineering, currently working with Farfetch. I'm passionate about technology and enjoy solving complex problems.
 
-<div style="display: flex; background-color: #0e1116; padding: 10px;">
+<div style="background-color: #0e1116; padding: 10px;">
     <div style="flex: 1; margin-right: 10px; color: white;">
         <!-- Adjust styles for Your GitHub Stats -->
         <img src="https://github-readme-stats.vercel.app/api?username=pedronet5" alt="Your GitHub Stats" style="background-color: #0e1116; width: 100%;">
-        https://github-readme-stats.vercel.app/api?username=your_username&amp;show_icons=true&amp;theme=algolia&amp;include_all_commits=true&amp;count_private=true
     </div>
     <div style="flex: 1; color: white;">
         <!-- Adjust styles for Your Top Languages -->
