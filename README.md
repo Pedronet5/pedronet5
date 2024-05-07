@@ -4,10 +4,14 @@ I'm a Senior Consulting Engineer at Capgemini Engineering, currently working wit
 
 <div dir="auto">
     <!-- Pedro's GitHub Stats -->
-    <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api?username=pedronet5&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" style="max-width: 100%;"></a>
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api?username=pedronet5&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" style="max-width: 100%;">
+        <img src="https://github-readme-stats.vercel.app/api?username=pedronet5&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="Pedro's GitHub Stats" style="max-width: 100%;">
+    </a>
     
     <!-- Pedro's Top Languages -->
-    <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api/top-langs/?username=pedronet5&layout=compact&langs_count=6&theme=algolia" style="max-width: 100%;"></a>
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api/top-langs/?username=pedronet5&layout=compact&langs_count=6&theme=algolia" style="max-width: 100%;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedronet5&layout=compact&langs_count=6&theme=algolia" alt="Pedro's Top Languages" style="max-width: 100%;">
+    </a>
 </div>
 
 ## About Me
