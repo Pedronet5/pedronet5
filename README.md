@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hi there, I'm Pedro Henrique Leite de Camargo! 👋
 
-<!--
-**Pedronet5/pedronet5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Senior Consulting Engineer at Capgemini Engineering, currently working with Farfetch. I'm passionate about technology and enjoy solving complex problems.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍💻 I have been in the tech industry for 12 years, specializing in .NET C#.
+
+🏠 Currently, I reside in Portugal with my family, and I absolutely cherish the time spent with them.
+
+🌱 In my free time, In my leisure time, I prioritize fostering connections with my family and friends, cherishing moments of togetherness. During weekends, 
+I indulge in video games for recreation, and enjoy watching movies and series alongside my spouse, enhancing our bond through shared experiences.
+
+## Work Experience
+
+- **Senior Consulting Engineer** at Capgemini Engineering
+  - Working with Farfetch on software engineer responsible for the development lifecycle, from requirements gathering to delivery.
+
+## Get in Touch
+
+📫 Feel free to reach out to me via LinkeDin https://www.linkedin.com/in/pedronet5/
+
+## Contact Me
+
+pedronet5@gmail.com
+
+https://github-readme-stats.vercel.app/api?username=pedronet5
