@@ -3,7 +3,7 @@
 I'm a Senior Consulting Engineer at Capgemini Engineering, currently working with Farfetch. I'm passionate about technology and enjoy solving complex problems.
 
 ## GitHub Stats
-![Pedro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedronet5)
+![Pedro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedronet5)(https://github-readme-stats.vercel.app/api/top-langs/?username=pedronet5)
 
 ## About Me
 
@@ -40,10 +40,6 @@ I indulge in video games for recreation, and enjoy watching movies and series al
 - Experienced in Agile methodologies, particularly Scrum and Kanban.
 - Strong knowledge of continuous integration and continuous delivery (CI/CD) pipelines.
 - Skilled in a variety of technologies including Git, Jenkins, Microsoft SQL Server, Angular, and Docker.
-
-## Get in Touch
-
-📫 Feel free to reach out to me via LinkeDin https://www.linkedin.com/in/pedronet5/
 
 ## Contact Information
 - LinkedIn: https://www.linkedin.com/in/pedronet5/
