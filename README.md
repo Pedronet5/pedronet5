@@ -50,5 +50,6 @@ I indulge in video games for recreation, and enjoy watching movies and series al
 - Skilled in a variety of technologies including Git, Jenkins, Microsoft SQL Server, Angular, and Docker.
 
 ## Contact Information
+- CV: https://pedronet5.github.io/
 - LinkedIn: https://www.linkedin.com/in/pedronet5/
 - Email: pedronet5@gmail.com
