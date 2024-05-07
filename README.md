@@ -3,7 +3,10 @@
 I'm a Senior Consulting Engineer at Capgemini Engineering, currently working with Farfetch. I'm passionate about technology and enjoy solving complex problems.
 
 ## GitHub Stats
-![Pedro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedronet5)(https://github-readme-stats.vercel.app/api/top-langs/?username=pedronet5)
+![Pedro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedronet5)
+
+## Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedronet5)
 
 ## About Me
 
