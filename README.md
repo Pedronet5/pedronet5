@@ -8,7 +8,7 @@ I'm a Senior Consulting Engineer at Capgemini Engineering, currently working wit
         <img src="https://github-readme-stats.vercel.app/api?username=pedronet5" alt="Pedro's GitHub Stats" style="background-color: #0e1116;">
     </div>
     <div style="flex: 1; color: white;">
-        <!-- Adjust styles for Top Languages -->
+        <!-- Adjust styles for Top Languages --->
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedronet5" alt="Top Languages" style="background-color: #0e1116;">
     </div>
 </div>
