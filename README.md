@@ -2,15 +2,14 @@
 
 I'm a Senior Consulting Engineer at Capgemini Engineering, currently working with Farfetch. I'm passionate about technology and enjoy solving complex problems.
 
-<div style="display: flex;">
-    <div style="flex: 50%; margin-right: 10px;">
+<div style="background-color: black; display: flex; justify-content: space-between; padding: 10px;">
+    <div style="flex: 1; margin-right: 10px;">
         <img src="https://github-readme-stats.vercel.app/api?username=pedronet5" alt="Pedro's GitHub Stats" style="background-color: black;">
     </div>
-    <div style="flex: 50%;">
+    <div style="flex: 1;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedronet5" alt="Top Languages" style="background-color: black;">
     </div>
 </div>
-
 
 ## About Me
 
